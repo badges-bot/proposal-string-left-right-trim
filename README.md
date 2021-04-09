@@ -1,5 +1,7 @@
 # String.prototype.trimStart / String.prototype.trimEnd
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 ECMAScript proposal, specs, tests, and reference implementation for String.prototype.trimStart/trimEnd (plus **trimLeft/trimRight**).
 
 **Stage 4**
